@@ -1,19 +1,56 @@
 # Write your code here!
 def game_hash
   {:home  =>  {
-    :team_name =>"Brooklyn Nets"
-    :colors =>["Black","White"]
-    :players => [
+    :team_name =>"Brooklyn Nets",
+    :colors =>["Black","White"],
+    :players => [ {:player_name => 
+                  :number =>
+                  :shoe =>
+                  :points =>
+                  :rebounds =>
+                  :assists =>
+                  :steals =>
+                  :blocks =>
+                  :slam_dunks => },
+                  {:player_name => 
+                  :number =>
+                  :shoe =>
+                  :points =>
+                  :rebounds =>
+                  :assists =>
+                  :steals =>
+                  :blocks =>
+                  :slam_dunks => },
+                  {:player_name => 
+                  :number =>
+                  :shoe =>
+                  :points =>
+                  :rebounds =>
+                  :assists =>
+                  :steals =>
+                  :blocks =>
+                  :slam_dunks => },
+                  {:player_name => 
+                  :number =>
+                  :shoe =>
+                  :points =>
+                  :rebounds =>
+                  :assists =>
+                  :steals =>
+                  :blocks =>
+                  :slam_dunks => },
+                  {:player_name => 
+                  :number =>
+                  :shoe =>
+                  :points =>
+                  :rebounds =>
+                  :assists =>
+                  :steals =>
+                  :blocks =>
+                  :slam_dunks => }
 
 
-
-
-
-
-
-
-
-        ]
+  ]
 
 
 
@@ -30,8 +67,8 @@ def game_hash
 
 ,
    :away =>{
-    :team_name =>"Charlotte Hornets"
-    :colors =>["Turquoise","Purple"]
+    :team_name =>"Charlotte Hornets",
+    :colors =>["Turquoise","Purple"],
     :players => [
 
 
